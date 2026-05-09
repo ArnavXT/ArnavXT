@@ -15,4 +15,3 @@ I am a 3rd-year B.Tech CSE student focused on building scalable applications and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArnavXT&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
