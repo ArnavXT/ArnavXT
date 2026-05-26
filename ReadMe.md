@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a 3rd-year B.Tech CSE student focused on building scalable applications and exploring the depths of cloud infrastructure. I enjoy solving complex problems through competitive programming and have a keen eye for visual design.
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_t0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnav-tripathi-4a95601a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavtripathi21045@gmail.com) 
 
