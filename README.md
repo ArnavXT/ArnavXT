@@ -1,11 +1,3 @@
-# <div align="center">🚀 Welcome to My GitHub</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Arnav+Tripathi;AI%2FML+%26+Full-Stack+Developer;Generative+AI+%26+Computer+Vision&v=2" />
-</div>
-
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -124,24 +116,6 @@ me.intro()
 
 ---
 
-## 📜 Certifications
-
-* **NPTEL**: Introduction to Machine Learning (IIT Madras) | Marketing Analytics (IIT Kharagpur)
-* **Google**: Technical IT Support Certificate
-* **Oracle**: Certified Generative AI Professional
-* **Coursera**: Bits and Bytes of Computer Networking
-* **VITYarthi**: AIML, Programming in Java, Python, and C++
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavXT&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=2" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -149,10 +123,6 @@ me.intro()
   <img src="https://streak-stats.demolab.com/?user=ArnavXT&theme=radical&hide_border=true" width="48%" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavXT&theme=radical&show_icons=true&hide_border=true&layout=compact" width="48%" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
