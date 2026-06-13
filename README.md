@@ -137,7 +137,7 @@ me.intro()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavtripathi21045&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavXT&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ---
@@ -145,12 +145,12 @@ me.intro()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavtripathi21045&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=arnavtripathi21045&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavXT&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ArnavXT&theme=radical&hide_border=true" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtripathi21045&theme=radical&show_icons=true&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavXT&theme=radical&show_icons=true&hide_border=true&layout=compact" width="48%" />
 </div>
 
 ---
@@ -160,7 +160,7 @@ me.intro()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-tripathi-4a95601a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavtripathi21045)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavXT)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavtripathi21045@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arnav_t0)
 
