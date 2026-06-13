@@ -19,7 +19,7 @@ class ArnavTripathi:
 
     def intro(self):
         print("Passionate about solving real-world problems with AI. 🚀")
-        print("I am a 3rd-year B.Tech CSE student focused on building scalable applications and exploring the depths of cloud infrastructure.")
+        print("I am a B.Tech CSE student focused on building scalable applications and exploring the depths of cloud infrastructure.")
         print("I enjoy solving complex problems through competitive programming and have a keen eye for visual design.")
 
 me = ArnavTripathi()
@@ -67,8 +67,6 @@ me.intro()
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔹 Web & Frameworks
 
@@ -96,7 +94,7 @@ me.intro()
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Smart Traffic Violation Reporting** | **Second Runner-up at SOLVIT Hackathon (150+ teams).** Advanced image recognition system detecting traffic violations (speeding, red-light) in real time with automated alert dispatch. | Computer Vision, Image Recognition |
+| **Smart Traffic Violation Reporting** | Advanced image recognition system detecting traffic violations (speeding, red-light) in real time with automated alert dispatch. | Computer Vision, Image Recognition |
 | **Pathwise** | Interactive learning platform with AI-generated courses. Built with React 19 + Vite, featuring Framer Motion animations, LaTeX rendering, and OpenRouter AI integration. | React 19, Framer Motion, OpenRouter AI |
 | **Project Aura** | End-to-end AI platform for chronic disease management. Scalable FastAPI backend integrating hybrid models (Random Forest & LSTM) for predictive health analytics. | FastAPI, Random Forest, LSTM, Python |
 
@@ -109,9 +107,6 @@ me.intro()
   ▸ Built AI-based solutions through guided projects and mentorship from Google Cloud experts.
   ▸ Gained hands-on exposure to prompt engineering, statistical modelling, and cloud-based AI deployment pipelines.
 
-* **Design Team Co-Lead — WiCyS VIT Bhopal Student Chapter**
-  ▸ Led design initiatives, collaborating with teams to deliver impactful visual content.
-
 ---
 
 ## 📊 GitHub Stats
@@ -121,7 +116,6 @@ me.intro()
   <img src="https://streak-stats.demolab.com/?user=ArnavXT&theme=radical&hide_border=true" width="48%" />
 </div>
 <br>
----
 
 ## 🤝 Connect With Me
 
