@@ -1,7 +1,7 @@
 # <div align="center">🚀 Welcome to My GitHub</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Arnav+Tripathi;AI%2FML+%26+Full-Stack+Developer;Generative+AI+%26+Computer+Vision" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Arnav+Tripathi;AI%2FML+%26+Full-Stack+Developer;Generative+AI+%26+Computer+Vision&v=2" />
 </div>
 
 
@@ -137,7 +137,7 @@ me.intro()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavXT&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavXT&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=2" />
 </div>
 
 ---
